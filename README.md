@@ -52,40 +52,40 @@ This repository tracks top commercial SaaS platforms and open-source GitHub proj
 
 *Open-source digital twin frameworks provide vendor-neutral standards, device shadowing APIs, Industry 4.0 data models, and domain simulation engines.*
 
-1. 🤖 **[ROS 2 (Robot Operating System)](https://github.com/ros2/ros2)** [![GitHub stars](https://img.shields.io/github/stars/ros2/ros2?style=social&color=white)](https://github.com/ros2/ros2/stargazers)  
+1. 🤖 **[ROS 2 (Robot Operating System)](https://github.com/ros2/ros2)** [![GitHub_Stars](https://img.shields.io/github/stars/ros2/ros2?style=social&color=white)](https://github.com/ros2/ros2/stargazers)  
    Open robotics meta-operating system serving as the real-time physical twin layer and runtime execution engine for mobile assets, autonomous robots, and smart logistics.
 
-2. 🏗️ **[IfcOpenShell OpenBIM Stack](https://github.com/IfcOpenShell/IfcOpenShell)** [![GitHub stars](https://img.shields.io/github/stars/IfcOpenShell/IfcOpenShell?style=social&color=white)](https://github.com/IfcOpenShell/IfcOpenShell/stargazers)  
+2. 🏗️ **[IfcOpenShell OpenBIM Stack](https://github.com/IfcOpenShell/IfcOpenShell)** [![GitHub_Stars](https://img.shields.io/github/stars/IfcOpenShell/IfcOpenShell?style=social&color=white)](https://github.com/IfcOpenShell/IfcOpenShell/stargazers)  
    Open-source Industry Foundation Classes (IFC) parsing library and 3D geometry engine powering architectural, building, and infrastructure geometry twins.
 
-3. 🔮 **[Eclipse Ditto](https://github.com/eclipse-ditto/ditto)** [![GitHub stars](https://img.shields.io/github/stars/eclipse-ditto/ditto?style=social&color=white)](https://github.com/eclipse-ditto/ditto/stargazers)  
+3. 🔮 **[Eclipse Ditto](https://github.com/eclipse-ditto/ditto)** [![GitHub_Stars](https://img.shields.io/github/stars/eclipse-ditto/ditto?style=social&color=white)](https://github.com/eclipse-ditto/ditto/stargazers)  
    Leading open-source API-centric digital twin framework (Eclipse IoT) for state management, asset state synchronization, device shadows, and REST/WebSocket interfaces.
 
-4. 🏙️ **[Bentley iTwin.js Core](https://github.com/iTwin/itwinjs-core)** [![GitHub stars](https://img.shields.io/github/stars/iTwin/itwinjs-core?style=social&color=white)](https://github.com/iTwin/itwinjs-core/stargazers)  
+4. 🏙️ **[Bentley iTwin.js Core](https://github.com/iTwin/itwinjs-core)** [![GitHub_Stars](https://img.shields.io/github/stars/iTwin/itwinjs-core?style=social&color=white)](https://github.com/iTwin/itwinjs-core/stargazers)  
    Open-source TypeScript/JavaScript SDK and web visualization framework for bringing 3D infrastructure digital twins to browsers and mobile applications.
 
-5. 📜 **[Azure DTDL (Digital Twins Definition Language)](https://github.com/Azure/opendigitaltwins-dtdl)** [![GitHub stars](https://img.shields.io/github/stars/Azure/opendigitaltwins-dtdl?style=social&color=white)](https://github.com/Azure/opendigitaltwins-dtdl/stargazers)  
+5. 📜 **[Azure DTDL (Digital Twins Definition Language)](https://github.com/Azure/opendigitaltwins-dtdl)** [![GitHub_Stars](https://img.shields.io/github/stars/Azure/opendigitaltwins-dtdl?style=social&color=white)](https://github.com/Azure/opendigitaltwins-dtdl/stargazers)  
    Open language specification and JSON-LD context schemas for defining device capabilities, state telemetry, property graphs, and relationships.
 
-6. 🚜 **[Open-RMF (Robotics Middleware Framework)](https://github.com/open-rmf/rmf)** [![GitHub stars](https://img.shields.io/github/stars/open-rmf/rmf?style=social&color=white)](https://github.com/open-rmf/rmf/stargazers)  
+6. 🚜 **[Open-RMF (Robotics Middleware Framework)](https://github.com/open-rmf/rmf)** [![GitHub_Stars](https://img.shields.io/github/stars/open-rmf/rmf?style=social&color=white)](https://github.com/open-rmf/rmf/stargazers)  
    Interoperability middleware framework coordinating heterogeneous multi-robot fleets, automated facility traffic, and live spatial digital twins.
 
-7. 🌐 **[FIWARE Orion Context Broker](https://github.com/telefonicaid/fiware-orion)** [![GitHub stars](https://img.shields.io/github/stars/telefonicaid/fiware-orion?style=social&color=white)](https://github.com/telefonicaid/fiware-orion/stargazers)  
+7. 🌐 **[FIWARE Orion Context Broker](https://github.com/telefonicaid/fiware-orion)** [![GitHub_Stars](https://img.shields.io/github/stars/telefonicaid/fiware-orion?style=social&color=white)](https://github.com/telefonicaid/fiware-orion/stargazers)  
    Open NGSI-LD context broker standardizing real-time context management and dynamic data modeling across smart cities, smart agritech, and industrial environments.
 
-8. 🔎 **[Azure Digital Twins Explorer](https://github.com/Azure-Samples/digital-twins-explorer)** [![GitHub stars](https://img.shields.io/github/stars/Azure-Samples/digital-twins-explorer?style=social&color=white)](https://github.com/Azure-Samples/digital-twins-explorer/stargazers)  
+8. 🔎 **[Azure Digital Twins Explorer](https://github.com/Azure-Samples/digital-twins-explorer)** [![GitHub_Stars](https://img.shields.io/github/stars/Azure-Samples/digital-twins-explorer?style=social&color=white)](https://github.com/Azure-Samples/digital-twins-explorer/stargazers)  
    Open-source visual developer workbench for graph topology exploration, model creation, and live relationship querying for digital twins.
 
-9. ⚡ **[GridLAB-D Power System Simulator](https://github.com/gridlab-d/gridlab-d)** [![GitHub stars](https://img.shields.io/github/stars/gridlab-d/gridlab-d?style=social&color=white)](https://github.com/gridlab-d/gridlab-d/stargazers)  
+9. ⚡ **[GridLAB-D Power System Simulator](https://github.com/gridlab-d/gridlab-d)** [![GitHub_Stars](https://img.shields.io/github/stars/gridlab-d/gridlab-d?style=social&color=white)](https://github.com/gridlab-d/gridlab-d/stargazers)  
    Advanced power-grid distribution simulation engine providing analytical analytical twin capabilities for smart grids, renewable microgrids, and energy utilities.
 
-10. 🌐 **[Eclipse Thingweb (Web of Things / node-wot)](https://github.com/eclipse-thingweb/node-wot)** [![GitHub stars](https://img.shields.io/github/stars/eclipse-thingweb/node-wot?style=social&color=white)](https://github.com/eclipse-thingweb/node-wot/stargazers)  
+10. 🌐 **[Eclipse Thingweb (Web of Things / node-wot)](https://github.com/eclipse-thingweb/node-wot)** [![GitHub_Stars](https://img.shields.io/github/stars/eclipse-thingweb/node-wot?style=social&color=white)](https://github.com/eclipse-thingweb/node-wot/stargazers)  
     W3C Web of Things (WoT) standard implementation enabling interoperable Web APIs, Thing Descriptions (TD), and event interactions for digital twins.
 
-11. 🏭 **[Eclipse BaSyx Python SDK](https://github.com/eclipse-basyx/basyx-python-sdk)** [![GitHub stars](https://img.shields.io/github/stars/eclipse-basyx/basyx-python-sdk?style=social&color=white)](https://github.com/eclipse-basyx/basyx-python-sdk/stargazers)  
+11. 🏭 **[Eclipse BaSyx Python SDK](https://github.com/eclipse-basyx/basyx-python-sdk)** [![GitHub_Stars](https://img.shields.io/github/stars/eclipse-basyx/basyx-python-sdk?style=social&color=white)](https://github.com/eclipse-basyx/basyx-python-sdk/stargazers)  
     Open Python library implementing Industry 4.0 Asset Administration Shell (AAS) standards for manufacturing submodels and industrial asset compliance.
 
-12. ☕ **[Eclipse BaSyx Java SDK](https://github.com/eclipse-basyx/basyx-java-sdk)** [![GitHub stars](https://img.shields.io/github/stars/eclipse-basyx/basyx-java-sdk?style=social&color=white)](https://github.com/eclipse-basyx/basyx-java-sdk/stargazers)  
+12. ☕ **[Eclipse BaSyx Java SDK](https://github.com/eclipse-basyx/basyx-java-sdk)** [![GitHub_Stars](https://img.shields.io/github/stars/eclipse-basyx/basyx-java-sdk?style=social&color=white)](https://github.com/eclipse-basyx/basyx-java-sdk/stargazers)  
     Enterprise Java SDK and runtime server for building Industry 4.0 Asset Administration Shell (AAS) digital representations in smart manufacturing.
 
 ---
@@ -115,7 +115,7 @@ Contributions are warmly welcome! To submit a new SaaS platform or open-source d
 
 1. 🍴 **Fork the repository**.
 2. 📝 **Add/edit entries in `README.md`** (maintaining the existing tabular/list format).
-3. 🔗 **Include**: Product name, official link, star badge (if open-source), clear pricing/free tier details, and factual 1–2 sentence description.
+3. 🔗 **Include**: Product name, official link, Stars_Badge (if open-source), clear pricing/free tier details, and factual 1–2 sentence description.
 4. 📬 **Open a Pull Request (PR)** with a clear explanation of your additions.
 
 Check out our curated list directory: [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).
